@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I'm a postdoctoral researcher at Yale University in the Physics department. You can find some projects here I developed for research, as well as for fun!
+- I have a Ph.D. in Chemistry from Duke University, and Physics and Chemistry degrees from Koc University.
+- 🌱 I'm passionate about developing software and numerical tools to solve scientific problems.
+- 📫 Feel free to connect and reach me on LinkedIn!
+
 <!--
 **sodiumnitrate/sodiumnitrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
